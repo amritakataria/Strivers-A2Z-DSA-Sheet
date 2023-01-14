@@ -2,7 +2,8 @@ Print name N times using recursion
 Print 1 to N using recursion			
 Print N to 1 using recursion
 Print sum of first N numbers
-Factorial of N numbers			
+Factorial of N numbers	
+Find all factorial numbers less than or equal to N
 Reverse an array			
 Check if a string is palindrome or not			
 Fibonacci Number
